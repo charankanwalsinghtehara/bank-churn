@@ -1,0 +1,38 @@
+driver,category,customers,churned,churn_rate
+age_group,18-25,1338,119,8.89387144992526
+age_group,26-35,2902,260,8.959338387319091
+age_group,36-45,3404,300,8.81316098707403
+age_group,46-55,1839,161,8.754758020663404
+age_group,56-65,475,46,9.68421052631579
+age_group,66+,42,6,14.285714285714285
+tenure_group,0-1 Years,825,110,13.333333333333334
+tenure_group,2-3 Years,2401,180,7.496876301541025
+tenure_group,4-5 Years,2479,216,8.713190802743041
+tenure_group,6-10 Years,3351,298,8.89286780065652
+tenure_group,10+ Years,944,88,9.322033898305085
+product_group,1 Product,1304,194,14.877300613496933
+product_group,2 Products,2761,215,7.787033683448026
+product_group,3 Products,2728,226,8.284457478005864
+product_group,4 Products,1828,157,8.588621444201312
+product_group,5+ Products,1379,100,7.25163161711385
+credit_score_group,Poor,91,12,13.186813186813188
+credit_score_group,Fair,2284,204,8.93169877408056
+credit_score_group,Good,4752,422,8.88047138047138
+credit_score_group,Very Good,2376,193,8.122895622895623
+credit_score_group,Excellent,497,61,12.273641851106639
+satisfaction_group,Low,248,50,20.161290322580644
+satisfaction_group,Below Average,2554,216,8.45732184808144
+satisfaction_group,Good,5201,458,8.805998846375697
+satisfaction_group,Excellent,1997,168,8.412618928392588
+engagement_group,Very Low,10000,892,8.92
+complaint_group,No Complaints,7057,609,8.62972934674791
+complaint_group,1 Complaint,2432,204,8.388157894736842
+complaint_group,2-3 Complaints,502,76,15.139442231075698
+complaint_group,4-5 Complaints,9,3,33.33333333333333
+value_segment,Low Value,2500,208,8.32
+value_segment,Medium Value,2500,240,9.6
+value_segment,High Value,2500,232,9.28
+value_segment,Very High Value,2500,212,8.48
+risk_band,Low Risk,4817,406,8.428482457961387
+risk_band,Medium Risk,4801,422,8.78983545094772
+risk_band,High Risk,382,64,16.75392670157068

@@ -1,0 +1,19 @@
+feature,coefficient,absolute_importance,direction
+product_count,-0.17513653047324604,0.17513653047324604,Higher value associated with retention
+loan_count,0.13875559027066534,0.13875559027066534,Higher value associated with churn
+avg_utilization_ratio,-0.1255258607116367,0.1255258607116367,Higher value associated with retention
+total_loan_amount,-0.12208855814859527,0.12208855814859527,Higher value associated with retention
+credit_card_count,0.1064656401533351,0.1064656401533351,Higher value associated with churn
+complaint_count,0.10450377987435738,0.10450377987435738,Higher value associated with churn
+digital_engagement,-0.08062802062966556,0.08062802062966556,Higher value associated with retention
+annual_income,-0.07255822209058249,0.07255822209058249,Higher value associated with retention
+total_transaction_amount,-0.0663460133768671,0.0663460133768671,Higher value associated with retention
+satisfaction_score,-0.06562095165476796,0.06562095165476796,Higher value associated with retention
+transaction_count,0.05590682360012474,0.05590682360012474,Higher value associated with churn
+account_count,0.048691679675100345,0.048691679675100345,Higher value associated with churn
+age,0.02273830458987898,0.02273830458987898,Higher value associated with churn
+estimated_customer_value,-0.01510682082066781,0.01510682082066781,Higher value associated with retention
+tenure_years,-0.014238833728548774,0.014238833728548774,Higher value associated with retention
+total_account_balance,-0.012112718765912236,0.012112718765912236,Higher value associated with retention
+credit_score,0.0074207874139767755,0.0074207874139767755,Higher value associated with churn
+interaction_count,0.0017307013631813375,0.0017307013631813375,Higher value associated with churn
