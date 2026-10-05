@@ -101,21 +101,7 @@ st.markdown(
 
 @st.cache_data
 
-# --- Streamlit Cloud data-file validation ---
-_REQUIRED_REPORT_FILES = [
-    "customer_360.csv",
-]
-_missing_report_files = [
-    f for f in _REQUIRED_REPORT_FILES
-    if not os.path.isfile(os.path.join(REPORT_DIR, f))
-]
-if _missing_report_files:
-    st.error(
-        "Required report files are missing: "
-        + ", ".join(_missing_report_files)
-        + ". Please ensure the generated reports are committed to the repository."
-    )
-    st.stop()
+
 
 def load_data():
 
